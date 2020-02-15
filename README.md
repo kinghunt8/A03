@@ -95,5 +95,5 @@ Be organized and make sure to commit after any changes are made!
 * Sources * 
 
 
-* Powerpoints, https://www.jetbrains.com/help/webstorm/manage-projects-hosted-on-github.html, https://github.com/JetBrains/webstorm-samples *
+* Powerpoints, https://www.jetbrains.com/help/webstorm/manage-projects-hosted-on-github.html, https://github.com/JetBrains/webstorm-samples  *
 
